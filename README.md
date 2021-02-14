@@ -1,1 +1,3 @@
-# dummy_practive
+# dummy_practice
+
+Practice repository 
